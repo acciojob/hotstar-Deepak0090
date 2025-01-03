@@ -89,3 +89,4 @@ public class Subscription {
         this.user = user;
     }
 }
+
